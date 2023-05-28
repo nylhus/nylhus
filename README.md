@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Matthew
 - 👀 I’m interested in Math, Science, and Programming
-- 🌱 I’m currently learning Java
-- 📫 You can reach me on my Discord! nylhus#2410
